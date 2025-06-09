@@ -63,7 +63,12 @@
                                                     </attributedString>
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="AC" cornerStyle="medium">
+                                                    <backgroundConfiguration key="background">
+                                                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                    </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="D0P-mJ-UG8">
@@ -74,7 +79,12 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="+/-" cornerStyle="medium">
+                                                    <backgroundConfiguration key="background">
+                                                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                    </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mh5-3Q-CQu">
@@ -85,7 +95,12 @@
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="%" cornerStyle="medium">
+                                                    <backgroundConfiguration key="background">
+                                                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                    </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SQZ-bo-UWt">
@@ -95,7 +110,10 @@
                                                 <state key="normal" title="÷">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
-                                                <buttonConfiguration key="configuration" style="filled" title="/">
+                                                <buttonConfiguration key="configuration" style="filled" title="/" cornerStyle="medium">
+                                                    <backgroundConfiguration key="background">
+                                                        <color key="backgroundColor" red="0.29411764709999999" green="0.43529411759999997" blue="0.2666666667" alpha="1" colorSpace="calibratedRGB"/>
+                                                    </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" name="Arial-BoldMT" family="Arial" pointSize="32"/>
                                                 </buttonConfiguration>
                                             </button>
@@ -119,7 +137,10 @@
                                                     </attributedString>
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="7" cornerStyle="medium">
+                                                    <backgroundConfiguration key="background"/>
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JRI-Cq-nYX">
@@ -131,6 +152,8 @@
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="8" cornerStyle="medium">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fdU-nW-02c">
@@ -142,6 +165,8 @@
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="9" cornerStyle="medium">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Scn-lQ-fu5">
@@ -151,8 +176,12 @@
                                                 <state key="normal" title="÷">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
-                                                <buttonConfiguration key="configuration" style="filled" title="x">
+                                                <buttonConfiguration key="configuration" style="filled" title="x" cornerStyle="medium">
+                                                    <backgroundConfiguration key="background">
+                                                        <color key="backgroundColor" red="0.29411764709999999" green="0.43529411759999997" blue="0.2666666667" alpha="1" colorSpace="calibratedRGB"/>
+                                                    </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" name="Arial-BoldMT" family="Arial" pointSize="32"/>
+                                                    <color key="baseForegroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                         </subviews>
@@ -176,6 +205,8 @@
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="4" cornerStyle="medium">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7c9-6L-tVb">
@@ -187,6 +218,8 @@
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="5" cornerStyle="medium">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HmU-Em-TOG">
@@ -198,6 +231,8 @@
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="6" cornerStyle="medium">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="exF-EG-MhC">
@@ -207,8 +242,13 @@
                                                 <state key="normal" title="÷">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
-                                                <buttonConfiguration key="configuration" style="filled" title="-">
+                                                <buttonConfiguration key="configuration" style="filled" title="-" cornerStyle="medium">
+                                                    <backgroundConfiguration key="background">
+                                                        <color key="backgroundColor" red="0.29411764709999999" green="0.43529411759999997" blue="0.2666666667" alpha="1" colorSpace="calibratedRGB"/>
+                                                    </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" name="Arial-BoldMT" family="Arial" pointSize="32"/>
+                                                    <color key="baseForegroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="baseBackgroundColor" red="0.29411764709999999" green="0.43529411759999997" blue="0.2666666667" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                         </subviews>
@@ -232,6 +272,8 @@
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="1" cornerStyle="medium">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fAv-1o-HKw">
@@ -243,6 +285,8 @@
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="2" cornerStyle="medium">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qoL-6i-1TE">
@@ -254,6 +298,8 @@
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="3" cornerStyle="medium">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eKI-Tq-SGW">
@@ -263,8 +309,13 @@
                                                 <state key="normal" title="÷">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
-                                                <buttonConfiguration key="configuration" style="filled" title="+">
+                                                <buttonConfiguration key="configuration" style="filled" title="+" cornerStyle="medium">
+                                                    <backgroundConfiguration key="background">
+                                                        <color key="backgroundColor" red="0.29411764709999999" green="0.43529411759999997" blue="0.2666666667" alpha="1" colorSpace="calibratedRGB"/>
+                                                    </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" name="Arial-BoldMT" family="Arial" pointSize="32"/>
+                                                    <color key="baseForegroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="baseBackgroundColor" red="0.29411764709999999" green="0.43529411759999997" blue="0.2666666667" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                         </subviews>
@@ -288,6 +339,8 @@
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="?" cornerStyle="medium">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="atj-h6-qtL">
@@ -299,6 +352,8 @@
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="0" cornerStyle="medium">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sFo-b1-bZ2">
@@ -310,6 +365,8 @@
                                                 </state>
                                                 <buttonConfiguration key="configuration" style="filled" title="." cornerStyle="medium">
                                                     <fontDescription key="titleFontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
+                                                    <color key="baseForegroundColor" red="0.057385631440000001" green="0.057385631440000001" blue="0.057385631440000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    <color key="baseBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="veT-zz-Njm">
@@ -319,8 +376,13 @@
                                                 <state key="normal" title="÷">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
-                                                <buttonConfiguration key="configuration" style="filled" title="=">
+                                                <buttonConfiguration key="configuration" style="filled" title="=" cornerStyle="medium">
+                                                    <backgroundConfiguration key="background">
+                                                        <color key="backgroundColor" red="0.29411764709999999" green="0.43529411759999997" blue="0.2666666667" alpha="1" colorSpace="calibratedRGB"/>
+                                                    </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" name="Arial-BoldMT" family="Arial" pointSize="32"/>
+                                                    <color key="baseForegroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="baseBackgroundColor" red="0.29411764709999999" green="0.43529411759999997" blue="0.2666666667" alpha="1" colorSpace="calibratedRGB"/>
                                                 </buttonConfiguration>
                                             </button>
                                         </subviews>
@@ -335,7 +397,6 @@
                         <constraints>
                             <constraint firstItem="NYe-jA-mZ0" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="32s-M6-Dw7"/>
                             <constraint firstItem="NYe-jA-mZ0" firstAttribute="leading" secondItem="n8u-pU-lWm" secondAttribute="leading" id="5OP-ag-bUV"/>
-                            <constraint firstItem="n8u-pU-lWm" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="-10" id="BAP-Ph-E7d"/>
                             <constraint firstItem="NYe-jA-mZ0" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="Deq-Bv-dzc"/>
                             <constraint firstItem="NYe-jA-mZ0" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Fun-uK-WGk"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="NYe-jA-mZ0" secondAttribute="bottom" constant="499.66666666666663" id="KfP-0T-fUl"/>
